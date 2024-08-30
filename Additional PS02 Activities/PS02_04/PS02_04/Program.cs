@@ -5,7 +5,7 @@ namespace PS02_04
 {
     class Programs
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //code ni Jon Richmond
         {
             Console.Write("Enter a word: ");
             string user_input = Console.ReadLine().ToLower();

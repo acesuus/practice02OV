@@ -4,7 +4,7 @@ namespace PS02_03
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //code ni Jon Richmond
         {
             while (true)
             {
